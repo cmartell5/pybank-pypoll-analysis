@@ -1,6 +1,6 @@
-# python-project
+# PyBank and PyPoll Analysis
 
-# PyBank Instructions
+# PyBank Project Steps
 In this project, I am tasked with creating a Python script to analyze the financial records of a company. I was given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 My task is to create a Python script that analyzes the records to calculate each of the following values:
@@ -17,7 +17,7 @@ My task is to create a Python script that analyzes the records to calculate each
 
 In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
-# PyPoll Instructions
+# PyPoll Project Steps
 In this project, I am tasked with helping a small, rural town modernize its vote-counting process.
 
 I was given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". My task is to create a Python script that analyzes the votes and calculates each of the following values:
@@ -33,3 +33,6 @@ I was given a set of poll data called election_data.csv. The dataset is composed
 - The winner of the election based on popular vote
 
 In addition, my final script should both print the analysis to the terminal and export a text file with the results.
+
+## Tools Used
+Python and Jupyter Notebook
